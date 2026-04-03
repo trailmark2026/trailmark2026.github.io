@@ -1,0 +1,10 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="#D6CEBD" stroke="#003F87" stroke-width="4"/>
+  
+  <!-- Scout fleur-de-lis -->
+  <text x="100" y="120" font-family="serif" font-size="80" text-anchor="middle" fill="#003F87">⚜️</text>
+  
+  <!-- Pack 57 text -->
+  <text x="100" y="170" font-family="Inter, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#243E2C">PACK 57</text>
+</svg>
